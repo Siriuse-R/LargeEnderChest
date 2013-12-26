@@ -1,0 +1,6 @@
+name: LargeEnderChest
+version: version-number-unknown
+description: Minecraft Bukkit plugin.
+authors: [SiriuseR]
+website: http://www.siriuser.net/
+main: net.siriuser.lec.LargeEnderChest
